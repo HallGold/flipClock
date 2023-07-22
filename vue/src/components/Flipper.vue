@@ -1,6 +1,5 @@
 /*
  * 翻牌数字
- * @author： 兔子先生
  * @createDate: 2019-11-24
  */
 <template>
